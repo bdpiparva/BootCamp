@@ -58,7 +58,7 @@ public class ParkingAttendantTest {
 
         ParkingToken parkingtoken = parkingAttendant.acceptCar(car);
 
-        Assert.assertNotNull(parkingtoken);
+        Assert.assertNull(parkingtoken);
 
         Assert.assertTrue(parkingtoken.getParkingLotNumber().equals(PARKING_LOT_NUMBER) || parkingtoken.getParkingLotNumber().equals(anotherParkingLotNumber));
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.parkinglot.ParkingLotTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2016-06-30T07:19:23" hostname="in-bhupendrakumar.local" time="0.017">
+  <properties/>
+  <testcase name="shouldNotNotifyProductOwnerWhenTheParkingLotIsNotFull" classname="com.parkinglot.ParkingLotTest" time="0.008"/>
+  <testcase name="shouldAbleToCheckEmptyParkingSlotCount" classname="com.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldNotNotifyObserverWhenUnparkAndParkingSlotWasNotFull" classname="com.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldNotifySecurityPersonnelWhenTheParkingLotIsFull" classname="com.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldNotNotifySecurityPersonnelWhenTheParkingLotIsNotFull" classname="com.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldNotifyObserverWhenUnparkAndParkingSlotWasFull" classname="com.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldUnparkMyCarWithValidToken" classname="com.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldParkMyCarWhenSlotsAvailable" classname="com.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldNotParkMyCarIfSpaceUnavailable" classname="com.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldNotUnparkMyCarWithWrongToken" classname="com.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldNotUnparkMyCarIfTokenAlreadyUsed" classname="com.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldNotifyProductOwnerWhenTheParkingLotIsFull" classname="com.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldAbleToGetParkingLotNumber" classname="com.parkinglot.ParkingLotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
