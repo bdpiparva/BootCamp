@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.parkinglot.EvenParkingStrategyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-06-30T07:19:23" hostname="in-bhupendrakumar.local" time="0.077">
+<testsuite name="com.parkinglot.EvenParkingStrategyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-06-30T07:37:02" hostname="in-bhupendrakumar.local" time="0.08">
   <properties/>
-  <testcase name="shouldNotReturnParkingLotIfFull" classname="com.parkinglot.EvenParkingStrategyTest" time="0.076"/>
-  <testcase name="shouldAbleToKnowWhereToPark" classname="com.parkinglot.EvenParkingStrategyTest" time="0.001"/>
+  <testcase name="shouldNotReturnParkingLotIfFull" classname="com.parkinglot.EvenParkingStrategyTest" time="0.079"/>
+  <testcase name="shouldAbleToKnowWhereToPark" classname="com.parkinglot.EvenParkingStrategyTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
